@@ -1,0 +1,21 @@
+{
+  "Name": "BLP_semi_wd20_33_pairs_0",
+  "batch_size": 192.0,
+  "embedding_dim": 256.0,
+  "evaluation_batch_size": 30.0,
+  "label_smoothing": 0.15,
+  "learning_rate": 0.002084295761242309,
+  "loss": "BCEWithLogitsLoss",
+  "max_num_qualifier_pairs": "[0]",
+  "model": "BLP",
+  "num_epochs": 386,
+  "test.both.avg.adjusted_mean_rank": 0.04755776756236563,
+  "test.both.avg.hits_at_1": 0.07370609981515712,
+  "test.both.avg.hits_at_10": 0.24653419593345655,
+  "test.both.avg.hits_at_3": 0.1337800369685767,
+  "test.both.avg.hits_at_5": 0.17282809611829944,
+  "test.both.avg.mean_rank": 219.1434842883549,
+  "test.both.avg.mean_reciprocal_rank": 0.139542691218096,
+  "training_approach": "lcwa",
+  "use_slcwa": false
+}

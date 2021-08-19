@@ -1,0 +1,22 @@
+{
+  "Name": "QBLP_wd20_100_v1_pairs_6",
+  "batch_size": 1024,
+  "dim_transformer_hidden": 640.0,
+  "embedding_dim": 128.0,
+  "evaluation_batch_size": 10.0,
+  "label_smoothing": 0.1,
+  "learning_rate": 0.00033807732007455654,
+  "loss": "BCEWithLogitsLoss",
+  "max_num_qualifier_pairs": "[6]",
+  "model": "QBLP",
+  "num_epochs": 552,
+  "num_transformer_heads": 2.0,
+  "num_transformer_layers": 2.0,
+  "test.both.avg.adjusted_mean_rank": 0.236537623928962,
+  "test.both.avg.hits_at_1": 0.027472527472527472,
+  "test.both.avg.hits_at_10": 0.17857142857142858,
+  "test.both.avg.hits_at_3": 0.07692307692307693,
+  "test.both.avg.hits_at_5": 0.1043956043956044,
+  "test.both.avg.mean_rank": 292.7898351648352,
+  "test.both.avg.mean_reciprocal_rank": 0.07865703947938922
+}

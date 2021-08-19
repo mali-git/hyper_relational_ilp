@@ -1,0 +1,20 @@
+{
+  "Name": "BLP_wd20_66_v1_pairs_0",
+  "batch_size": 128,
+  "embedding_dim": 224.0,
+  "evaluation_batch_size": 10.0,
+  "learning_rate": 0.0024966987918393995,
+  "loss": "MarginRankingLoss",
+  "model": "BLP",
+  "num_epochs": 234,
+  "scoring_fct_name": "transe",
+  "test.both.avg.adjusted_mean_rank": 0.3495886639350052,
+  "test.both.avg.hits_at_1": 0.004488330341113106,
+  "test.both.avg.hits_at_10": 0.04443447037701975,
+  "test.both.avg.hits_at_3": 0.01526032315978456,
+  "test.both.avg.hits_at_5": 0.02289048473967684,
+  "test.both.avg.mean_rank": 1149.4723967684022,
+  "test.both.avg.mean_reciprocal_rank": 0.021028063078154587,
+  "training_approach": "slcwa",
+  "training_kwargs_num_negs_per_pos": 73.0
+}
