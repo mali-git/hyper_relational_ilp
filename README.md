@@ -53,6 +53,10 @@ For high-level usage, we provide a command line interface for both, hyperparamet
 
 You can run `ilp --help` to get an overview of the available commands. We further discuss them below.
 
+## Datasets
+
+The datasets can be downloaded at https://zenodo.org/record/6581274#.Yo5Ki8ZCRTY.
+
 ## Individual configurations
 
 To start individual configurations use `ilp run`, e.g.,
